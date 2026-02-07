@@ -1,0 +1,7 @@
+src/App.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/layout/Footer.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/AboutPage.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/ContactPage.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/LandingPage.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/LandingPage.tsx(2,18): error TS6133: 'useScroll' is declared but its value is never read.
+src/pages/LandingPage.tsx(2,29): error TS6133: 'useTransform' is declared but its value is never read.
