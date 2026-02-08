@@ -50,5 +50,6 @@ flake8
 # openai
 langchain-groq
 duckduckgo-search
+feedparser
 
 
