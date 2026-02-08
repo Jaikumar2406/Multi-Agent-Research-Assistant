@@ -46,6 +46,7 @@ flake8
 # =========================
 # LLM Providers (choose as needed)
 # =========================
-groq
+
 # openai
-# langchain-groq
+langchain-groq
+
