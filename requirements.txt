@@ -51,5 +51,7 @@ flake8
 langchain-groq
 duckduckgo-search
 feedparser
+pinecone
+
 
 
