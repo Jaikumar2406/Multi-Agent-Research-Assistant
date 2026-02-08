@@ -52,6 +52,7 @@ langchain-groq
 duckduckgo-search
 feedparser
 pinecone
+langchain_huggingface
 
 
 
